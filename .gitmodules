@@ -2,3 +2,9 @@
   path = _data/common
   url = https://github.com/tsmanner/terrasa-common-data.git
   shallow = true
+[submodule "assets/common"]
+	path = assets/common
+	url = https://github.com/tsmanner/terrasa-common-assets.git
+[submodule "_includes/common"]
+	path = _includes/common
+	url = https://github.com/tsmanner/terrasa-common-includes.git
