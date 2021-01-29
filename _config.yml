@@ -38,6 +38,15 @@ navbar-links:
     - Feats: https://www.dndbeyond.com/feats
     - Sword Types: http://myarmoury.com/feature_oakeshott2.html
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      js:
+        - /assets/js/d20.js
+      css:
+        - /assets/css/encounter.css
+
 #
 # Footer
 #

@@ -1,11 +1,6 @@
 ---
 title: Brother Gromag
 subtitle: Nick
-layout: post
-js:
-  - /assets/common/js/encounter.js
-css:
-  - /assets/common/css/encounter.css
 ---
 
 <table>
