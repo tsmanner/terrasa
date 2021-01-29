@@ -43,7 +43,7 @@ defaults:
       path: ""
     values:
       js:
-        - /assets/common/js/d20.js
+        - /assets/common/js/encounter.js
       css:
         - /assets/common/css/encounter.css
 
