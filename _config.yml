@@ -42,6 +42,7 @@ defaults:
   - scope:
       path: ""
     values:
+      layout: post
       js:
         - /assets/common/js/encounter.js
       css:
