@@ -11,7 +11,7 @@ subtitle: Nick
 
 ### Letter from Chaplain Mayua
 
-Inside you find a partially completed design for a tattoo that could go on the palm or back of a hand.
+Inside you find a partially completed design for a tattoo of a road and river heading into a sunrise, that could go on the palm or back of a hand.
 
 A simple quipu with three strands, one orange, one green, and one blue, with the following knotted numbers on it:
 
