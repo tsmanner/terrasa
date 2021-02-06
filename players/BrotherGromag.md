@@ -1,11 +1,18 @@
 ---
 title: Brother Gromag
 subtitle: Nick
-layout: post
 ---
 
 {% assign entity = site.data.common.players | where: "name", page.title | first %}
 <table>
-  <thead><tr><th>Name</th><th>Init</th><th>AC</th><th>HP</th><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr></thead>
-  {% include common/entity.html entity=entity %}
+  {% include dnd/encounter-table-head.html %}
+  {% include dnd/entity-row.html entity=entity %}
 </table>
+
+| Orange | Green | Blue |
+|--------|-------|------|
+|    7   |   2   |   1  |
+|    9   |   1   |   8  |
+|    1   |   8   |   5  |
+
+![Sudoku](assets/img/gromag-sudoku.png)

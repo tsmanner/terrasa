@@ -1,4 +1,4 @@
-remote_theme: daattali/beautiful-jekyll@5.0.0
+remote_theme: tsmanner/beautiful-jekyll@dnd
 
 #
 # Header
@@ -43,10 +43,11 @@ defaults:
       path: ""
     values:
       layout: post
-      js:
-        - /assets/common/js/encounter.js
       css:
         - /assets/common/css/encounter.css
+
+dnd:
+  enable: true
 
 #
 # Footer
