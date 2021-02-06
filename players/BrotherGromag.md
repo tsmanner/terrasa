@@ -15,4 +15,4 @@ subtitle: Nick
 |    9   |   1   |   8  |
 |    1   |   8   |   5  |
 
-![Sudoku](/assets/img/gromag-sudoku.png)
+![Sudoku](../assets/img/gromag-sudoku.png)
