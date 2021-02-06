@@ -5,7 +5,7 @@ subtitle: Nick
 
 {% assign entity = site.data.common.players | where: "name", page.title | first %}
 <table>
-  {% include dnd/encounter-table-head.html %}
+  {% include dnd/entity-table-head.html %}
   {% include dnd/entity-row.html entity=entity %}
 </table>
 
