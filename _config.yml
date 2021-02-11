@@ -43,8 +43,6 @@ defaults:
       path: ""
     values:
       layout: post
-      css:
-        - /assets/common/css/encounter.css
 
 dnd:
   enable: true
